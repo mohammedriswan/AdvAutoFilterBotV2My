@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📺 Group 📺', url="https://t.me/joinchat/ehFX99SheBI3ZGZl"
+                                    '🌀 Click Here & Share Group 🌀', url="https://t.me/joinchat/ehFX99SheBI3ZGZl"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📺 Group 📺', url="https://t.me/joinchat/ehFX99SheBI3ZGZl"
+                                    '🌀 Click Here & Share Group 🌀', url="https://t.me/joinchat/ehFX99SheBI3ZGZl"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '📺 Group 📺', url="https://t.me/joinchat/ehFX99SheBI3ZGZl"
+                                    '🌀 Click Here & Share Group 🌀', url="https://t.me/joinchat/ehFX99SheBI3ZGZl"
                                 )
                         ]
                     ]
