@@ -12,13 +12,7 @@ class Translation(object):
 <b>Sorry... This Command is Only Visible to Admins</b>
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
-    
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
-
-<b>➥ Language</b> : <code>Python3</code>
-
-<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
-
-<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
+    ABOUT_TEXT = """എൻ്റെ പേര് <b>Pushpa Raj.</b> എന്നെ നിർമിച്ചിരിക്കുന്നത് <b><ahref="https://t.me/joinchat/ehFX99SheBI3ZGZl">Cinema Tv ഗ്രൂപ്പിൽ</b> ഫിൽറ്റർ സഹായത്തിനാണ്. 
+എന്നെ നിർമിച്ചത് ഇദ്ദേഹമാണ് 
+© <b><ahref="https://t.me/YouCan_CallMe_Leo">Lɪᴏɴᴇʟ Mᴇssɪ🇮🇳</b>
 """
