@@ -4,14 +4,9 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
-
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
-
-For More Details Click Help Button Below..
-@CrazyBotsz
-</i>"""    
+    START_TEXT = """<b>ഹായ് {}!!</b>
+<b>ഞാൻ ഒരു ഫിൽറ്റർ ബോട്ട് ആണ്. പക്ഷെ വെറുതെ സമയം കളയണ്ട എന്നെ സിനിമ ടി.വി ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ.
+</b>"""    
     
     HELP_TEXT = """
 <b>Sorry... This Command is Only Visible to Admins</b>
